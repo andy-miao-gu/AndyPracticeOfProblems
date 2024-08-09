@@ -1,0 +1,1 @@
+print("bananas are",not False and False and False or True and not False)

@@ -1,0 +1,10 @@
+Apple   1.99    Round
+Banana  0.99    Curved
+Orange  2.49    Spherical
+Grapes  3.99    Oval
+Strawberry  0.25    Conical
+Mango   2.79    Oval
+Watermelon  5.49    Oval
+Pineapple   2.99    Cylindrical
+Peach   1.49    Round
+Kiwi    1.89    Oval

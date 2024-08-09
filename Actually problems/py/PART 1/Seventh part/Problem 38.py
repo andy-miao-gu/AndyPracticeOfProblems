@@ -1,0 +1,25 @@
+distances = {
+    'Japan': 0,
+    'United States': 10884,  # Distance from Tokyo to New York City (in kilometers)
+    'China': 2222,  # Distance from Tokyo to Beijing (in kilometers)
+    'Australia': 7754,  # Distance from Tokyo to Sydney (in kilometers)
+    'United Kingdom': 9594,  # Distance from Tokyo to London (in kilometers)
+    'France': 10445,  # Distance from Tokyo to Paris (in kilometers)
+    'Germany': 9586,  # Distance from Tokyo to Berlin (in kilometers)
+    'Italy': 9933,  # Distance from Tokyo to Rome (in kilometers)
+    'Canada': 9826,  # Distance from Tokyo to Toronto (in kilometers)
+    'Brazil': 18118,  # Distance from Tokyo to São Paulo (in kilometers)
+    'Russia': 8179,  # Distance from Tokyo to Moscow (in kilometers)
+    'India': 6206,  # Distance from Tokyo to New Delhi (in kilometers)
+    'South Korea': 1001,  # Distance from Tokyo to Seoul (in kilometers)
+    'Spain': 10535,  # Distance from Tokyo to Madrid (in kilometers)
+    'Mexico': 11240,  # Distance from Tokyo to Mexico City (in kilometers)
+    'Indonesia': 5149,  # Distance from Tokyo to Jakarta (in kilometers)
+    'Turkey': 8606,  # Distance from Tokyo to Istanbul (in kilometers)
+    'Saudi Arabia': 7797,  # Distance from Tokyo to Riyadh (in kilometers)
+    'Netherlands': 9560,  # Distance from Tokyo to Amsterdam (in kilometers)
+    'Switzerland': 9366,  # Distance from Tokyo to Zurich (in kilometers)
+    'Argentina': 19034  # Distance from Tokyo to Buenos Aires (in kilometers)
+}
+for each in distances:
+    print("from tokyo to",each,"the distance",distances[each],"kilometers")

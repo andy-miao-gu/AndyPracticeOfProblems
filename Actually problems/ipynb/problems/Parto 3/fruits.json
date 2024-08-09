@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Apple",
+        "price": 1.99,
+        "shape": "Round"
+    },
+    {
+        "name": "Banana",
+        "price": 0.99,
+        "shape": "Curved"
+    },
+    {
+        "name": "Orange",
+        "price": 2.49,
+        "shape": "Spherical"
+    },
+    {
+        "name": "Grapes",
+        "price": 3.99,
+        "shape": "Oval"
+    },
+    {
+        "name": "Strawberry",
+        "price": 0.25,
+        "shape": "Conical"
+    },
+    {
+        "name": "Mango",
+        "price": 2.79,
+        "shape": "Oval"
+    },
+    {
+        "name": "Watermelon",
+        "price": 5.49,
+        "shape": "Oval"
+    },
+    {
+        "name": "Pineapple",
+        "price": 2.99,
+        "shape": "Cylindrical"
+    },
+    {
+        "name": "Peach",
+        "price": 1.49,
+        "shape": "Round"
+    },
+    {
+        "name": "Kiwi",
+        "price": 1.89,
+        "shape": "Oval"
+    }
+]
